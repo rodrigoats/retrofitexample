@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context="com.example.retrofitexemplo.MainActivity" >
+
+    <ListView
+        android:id="@+id/lvReclamacoes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

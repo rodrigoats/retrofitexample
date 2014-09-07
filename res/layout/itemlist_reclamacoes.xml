@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="top"
+        android:layout_marginTop="10dp"
+        android:text="Rua Augusto de Vasconcelos, 1000 - Campo Grande, Rio de Janeiro - RJ, 23045-120, República Federativa do Brasil"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tvEndereco"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="Bom dia  Este terreno baldio está ocasionando muitos transtornos aos moradores da região além do descaso do dono em cercar este terreno , que não se encontra neste estado como da foto , pois a mesma foi retirada do google maps tempos atras está em um esta"
+        />
+    
+    
+
+</LinearLayout>
